@@ -1,0 +1,4 @@
+# word_generation
+何かしらの言葉を入力すると，その言葉に関連した新たな言葉が出力されます．
+Word2Vecを使用し，wikipedia日本語全文データでモデルを構築しています．
+wiki.model はwikipedia日本語全文データモデルを作成したものを使用しています．
