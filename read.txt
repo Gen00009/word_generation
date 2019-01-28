@@ -1,0 +1,1 @@
+wiki.model はwikipedia日本語全文データモデルを作成したものを使用．
